@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SquadTopography.SquadMcMapDataExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "$(ProjectDir)..\\..\\..\\map-data\\squadmc\\mapdata.json $(ProjectDir)..\\..\\..\\map-data\\heightmaps\\",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}

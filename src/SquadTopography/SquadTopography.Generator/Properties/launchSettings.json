@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SquadTopography.Generator": {
+      "commandName": "Project",
+      "commandLineArgs": "$(ProjectDir)..\\..\\..\\map-data\\heightmaps $(ProjectDir)..\\..\\..\\generated\\",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
