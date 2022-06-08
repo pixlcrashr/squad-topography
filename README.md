@@ -18,6 +18,7 @@ Do you want to have better topographical maps for Squad? - You are welcome to cr
 
 - [x] Provide basic topographical maps for all Squad maps
 - [ ] Add topographical maps in SVG format, since it does not require a static resolution
+- [ ] Add contour-line height marks
 - [ ] Add highways/streets/paths to the topographical maps
 - [ ] Add forests to the topographical maps (marked with green)
 - [ ] Add city buildings to the topographical maps (marked with grey)
