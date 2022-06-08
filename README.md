@@ -4,6 +4,12 @@ Topographical 🗺️ for Squad ❤️!
 
 The aim of this project is to provide topographical maps for all default Squad maps.
 
+## Usage
+
+1. Download this repository.
+2. Unpack the downloaded file.
+3. Navigate to the folder `generated/`. There you will find all current topology maps for Squad.
+
 ## Help wanted
 
 Do you want to have better topographical maps for Squad? - You are welcome to create a pull request to add additional features.
